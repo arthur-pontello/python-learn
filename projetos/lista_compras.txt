@@ -1,0 +1,5 @@
+----lista de compras----
+arroz
+feijao
+detergente
+batata

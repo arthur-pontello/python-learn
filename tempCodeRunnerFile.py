@@ -1,0 +1,1 @@
+print(soma_listas(l1,l2))
